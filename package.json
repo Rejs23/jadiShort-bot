@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/collection": "^0.1.6",
-    "cheerio": "^1.0.0-rc.5",
+    "cheerio": "^1.0.0-rc.10",
     "express": "^4.17.1",
     "node-telegram-bot-api": "^0.50.0",
     "short.io": "^1.2.0",
